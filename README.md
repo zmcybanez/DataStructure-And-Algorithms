@@ -1,5 +1,5 @@
 # DataStructure-And-Algorithms
-This application AIMS solves 10 equations and graphs them one by one or all of them. Given the value of 1 - 50.
+This application aims to solve 10 equations and graphs them one by one or all of them. Given the value of 1 - 50.
 The Equations must be read from a text file and the output of the equation will be written in another text file.
 Afterwards it prompts the user to choose if it wants to graph a specific equation or all 10 equations.
 
